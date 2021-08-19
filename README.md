@@ -1,2 +1,2 @@
 # amgoncal 
-![Diagram] (/amgoncal/diagram.png)
+![Diagram] (amgoncal/diagram.png)
