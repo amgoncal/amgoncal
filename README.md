@@ -1,1 +1,2 @@
 "# amgoncal" 
+![Diagram] (diagram.png)
